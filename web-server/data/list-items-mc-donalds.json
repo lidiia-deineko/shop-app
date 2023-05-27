@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "id": "0001",
+            "title": "Cheeseburger",
+            "price": "20",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/Sdwch_Cheeseburger:1-4-product-tile-desktop",
+            "count": "1"
+        },
+        {
+            "id": "0002",
+            "title": "McDouble",
+            "price": "35",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/Public_ROYAL_ch-2:1-4-product-tile-desktop",
+            "count": "1"
+        },
+        {
+            "id": "0003",
+            "title": "Big Mac",
+            "price": "55",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/BIG_MAC:1-4-product-tile-desktop",
+            "count": "1"
+        }
+      ]
+  }

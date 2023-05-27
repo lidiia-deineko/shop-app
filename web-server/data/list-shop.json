@@ -1,0 +1,16 @@
+{
+    "shops": [
+        {
+          "title": "McDonald's",
+          "url": "/mc-donalds"
+        },
+        {
+          "title": "KFC",
+          "url": "/kfc"
+        },
+        {
+          "title": "Burger King",
+          "url": "/burger-king"
+        }
+      ]
+  }

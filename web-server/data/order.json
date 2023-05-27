@@ -1,0 +1,23 @@
+{
+	"name": "",
+	"email": "",
+	"phone": "",
+	"address": "",
+	"cartList": [
+		{
+			"id": "0001",
+			"title": "Cheeseburger",
+			"price": "20",
+			"img": "https://s7d1.scene7.com/is/image/mcdonalds/Sdwch_Cheeseburger:1-4-product-tile-desktop",
+			"count": 2
+		},
+		{
+			"id": "1003",
+			"title": "Tost",
+			"price": "55",
+			"img": "https://www.kfc-ukraine.com/admin/files/medium/medium_4119.jpg",
+			"count": 2
+		}
+	],
+	"totalPrice": 185
+}

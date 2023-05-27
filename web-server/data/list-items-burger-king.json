@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "id": "2001",
+            "title": "Nagets",
+            "price": "20",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/Nuggets_4:1-4-product-tile-desktop",
+            "count": "1"
+        },
+        {
+            "id": "2002",
+            "title": "Roll",
+            "price": "35",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/chicken_roll:1-4-product-tile-desktop",
+            "count": "1"
+        },
+        {
+            "id": "2003",
+            "title": "Burger",
+            "price": "55",
+            "img": "https://s7d1.scene7.com/is/image/mcdonalds/Sdwch_Hamburger:1-4-product-tile-desktop",
+            "count": "1"
+        }
+      ]
+  }

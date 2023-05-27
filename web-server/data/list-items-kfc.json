@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "id": "1001",
+            "title": "Twister",
+            "price": "20",
+            "img": "https://www.kfc-ukraine.com/admin/files/medium/medium_4190.png",
+            "count": "1"
+        },
+        {
+            "id": "1002",
+            "title": "Klasic",
+            "price": "35",
+            "img": "https://www.kfc-ukraine.com/admin/files/medium/medium_4191.png",
+            "count": "1"
+        },
+        {
+            "id": "1003",
+            "title": "Tost",
+            "price": "55",
+            "img": "https://www.kfc-ukraine.com/admin/files/medium/medium_4119.jpg",
+            "count": "1"
+        }
+      ]
+  }
